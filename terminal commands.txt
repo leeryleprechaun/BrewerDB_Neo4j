@@ -1,0 +1,25 @@
+LOAD CSV WITH HEADERS FROM 'file:///person.csv' AS row
+WITH toInteger(row.pid) as pid, row.name AS name, row.education AS education, row.priorCareer as priorCareer
+MERGE (p:pid {pid:pid})
+Set p.name = name, p.education = education, p.priorCareer = priorCareer
+RETURN name, education, priorCareer;
+
+_____________________________________________________________________________________________________
+
+LOAD CSV WITH HEADERS FROM 'file:///brewery.csv' AS row
+WITH toInteger(row.bid) as bid, row.brewery as brewery, row.production_2021 as production, row.city as city, row.state as state, row.country as country
+MERGE (b:bid {bid:bid})
+Set b.brewery = brewery, b.production = production, b.city = city, b.state = state
+RETURN brewery, production, city, state;
+
+______________________________________________________________________________________________________
+
+LOAD CSV WITH HEADERS FROM 'file:///brewed_for.csv' AS row
+WITH toInteger(row.bid) as bid, row.brewery as brewery, toInteger(row.pid) as pid, row.person as person, row.status as status
+MATCH (p:pid {pid:pid})
+MATCH (b:bid {bid:bid})
+MERGE (p)-[rel:brewed_for {status:status}]->(b)
+RETURN count(rel);
+
+
+______________________________________________________________________________________________________

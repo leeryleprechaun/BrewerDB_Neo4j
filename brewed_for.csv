@@ -1,0 +1,204 @@
+﻿bid,brewery,pid,person,status
+100,Tommyknocker Brewery,1000,Alex Stanbury,past
+101,WestFax,1001,Evan Beggs,past
+101,WestFax,1000,Alex Stanbury,past
+102,Lariat Lodge,1000,Alex Stanbury,current
+103,Ratio Beerworks,1003,Bess Dougherty,past
+103,Ratio Beerworks,1001,Evan Beggs,current
+103,Ratio Beerworks,1002,John King,current
+104,Prost Brewing,1004,Chrisopher O'Connor,current
+104,Prost Brewing,1005,Andrew Martinez,past
+104,Prost Brewing,1006,Matthew Gubanich,past
+104,Prost Brewing,1008,Brad Landman,past
+105,Sleeping Giant,1005,Andrew Martinez,past
+105,Sleeping Giant,1004,Chrisopher O'Connor,past
+106,Odell Brewing,1005,Andrew Martinez,past
+107,Victory Brewing Company,1005,Andrew Martinez,past
+108,Harpoon Brewery,1005,Andrew Martinez,past
+110,Wynkoop,1010,Thomas Larsen,past
+110,Wynkoop,1009,Jason zumBrunnen,past
+110,Wynkoop,1008,Brad Landman,past
+110,Wynkoop,1003,Bess Dougherty,past
+111,The Grateful Gnome,1003,Bess Dougherty,past
+112,Bruz Beers,1007,David Olson,current
+113,Ursala Brewing,1007,David Olson,past
+118,The Post,1008,Brad Landman,past
+119,Mountain Sun,1008,Brad Landman,past
+114,AC Golden Brewing,1009,Jason zumBrunnen,past
+115,Great Divide Brewing,1010,Thomas Larsen,past
+116,Ska Brewing,1010,Thomas Larsen,past
+117,Highside Brewing,1010,Thomas Larsen,current
+120,Avery Brewing,1011,Jon Cross,past
+120,Avery Brewing,1012,Chris Bell,past
+121,Call to Arms,1011,Jon Cross,past
+109,Pushroot Brewing Company,1006,Matthew Gubanich,current
+122,Long Trail Brewing Company,1012,Chris Bell,past
+121,Call to Arms,1012,Chris Bell,current
+123,Purpose Brewing,1013,Peter Bouckaert,current
+124,New Belgium,1013,Peter Bouckaert,past
+125,4 Noses Brewing Company,1014,Maxwell McAvoy,current
+125,4 Noses Brewing Company,1015,Hannah Stultz,current
+125,4 Noses Brewing Company,1016,Ryan Cartwright,current
+125,4 Noses Brewing Company,1017,Andrew Faron,current
+125,4 Noses Brewing Company,1018,Westin Ring,current
+125,4 Noses Brewing Company,1019,Devin,current
+104,Prost Brewing,1017,Andrew Faron,past
+126,Los Dos Patrillos,1020,Robert Bell,current
+127,Hogs Head Brewery,1020,Robert Bell,past
+126,Los Dos Patrillos,1021,Chris Gillmore,current
+128,Lone Tree Brewing,1021,Chris Gillmore,past
+128,Lone Tree Brewing,1023,Steve Talarczyk,current
+129,Crystal Spring,1018,Westin Ring,past
+128,Lone Tree Brewing,1022,Dale Hollars,current
+130,Fiction Brewing,1024,Dan Blie,past
+130,Fiction Brewing,1025,Brittany Portman,past
+103,Ratio Beerworks,1024,Dan Blie,current
+131,Goldspot Brewing,1026,Kelissa Hieber,owns
+131,Goldspot Brewing,1027,Robert Mack,past
+131,Goldspot Brewing,1070,Jared King,current
+131,Goldspot Brewing,1087,Sabrina L. Vo. Marr,intern
+132,Twisted Pine,1027,Robert Mack,past
+133,Gunanella Pass,1028,Jon Stother,past
+134,Diebolt Brewing,1028,Jon Stother,current
+135,Snowy Mountain Brewery,1029,Mike,owns
+104,Prost Brewing,1030,Bud,past
+136,Factotum,1031,Laura Bruns,owned
+136,Factotum,1032,Chris Bruns,owned
+103,Ratio Beerworks,1032,Chris Bruns,past
+137,Joy Ride Brewing,1033,Kyle Creager,past
+137,Joy Ride Brewing,1034,Dave Bergen,owns
+103,Ratio Beerworks,1035,Gene Allday,past
+183,Rockyard Brewing,1036,Noah Mitchell,past
+183,Rockyard Brewing,1037,Derick Rivera,past
+184,MobCraft,1037,Derick Rivera,past
+185,Stem Ciders,1038,Steve Motta,past
+186,Denver Beer Co,1039,Levi Petterson,past
+187,Crazy Mountain,1039,Levi Petterson,past
+187,Crazy Mountain,1040,Jesse Nansel,past
+188,Stepe Brewing,1039,Levi Petterson,current
+189,Breckenridge Brewery,1040,Jesse Nansel,past
+190,Buoy Brewing,1040,Jesse Nansel,past
+191,Epic Brewing,1041,Daniel Leigher,past
+192,Renegade Brewing,1041,Daniel Leigher,intern
+114,AC Golden Brewing,1042,Brett Zahrte,past
+194,Old 121,1042,Brett Zahrte,owned
+191,Epic Brewing,1042,Brett Zahrte,past
+120,Avery Brewing,1043,Ryan Fulkerson,past
+195,Tivoli Brewing,1044,Charles Koller,past
+196,Stranahan's Distillery,1044,Charles Koller,current
+132,Twisted Pine,1045,Parker Strum,past
+100,Tommyknocker Brewery,1046,Richard Santello,past
+193,MillerCoors,1046,Richard Santello,past
+197,Pug Ryan's,1046,Richard Santello,past
+198,Two Roads Brewing Compant,1046,Richard Santello,past
+193,MillerCoors,1042,Brett Zahrte,past
+199,Rockingham Brewing Co,1046,Richard Santello,past
+185,Stem Ciders,1047,Toney Kelley,past
+200,Inland Island,1047,Toney Kelley,past
+128,Lone Tree Brewing,1048,Alyssa Thorpe,past
+201,Mu Brewing,1048,Alyssa Thorpe,current
+202,Jagged Mountain,1048,Alyssa Thorpe,past
+203,Crooked Stave,1049,Daniel Artzer,current
+112,Bruz Beers,1050,Brian Littleton,past
+204,Something Brewing,1050,Brian Littleton,current
+205,Someplace Else Brewing,1051,Brandon Baldassare,past
+112,Bruz Beers,1052,Jeremy Bergener,past
+206,Brickwest Brewing,1052,Jeremy Bergener,past
+207,Apple Jack's Liquor,1053,Matt Dozier,past
+208,Station 26 Brewing,1054,Chris Fangmeier,current
+209,WeldWorks Brewing,1055,Jordan Kushner,past
+105,Sleeping Giant,1057,William (Butch) McGuire,current
+208,Station 26 Brewing,1058,Mark Nakayama,intern
+210,Tighe Brothers Distillery,1059,David Pucul,current
+211,Law's Whiskey,1061,James Kunz,current
+104,Prost Brewing,1061,James Kunz,past
+186,Denver Beer Co,1060,Brooke Tantillo,past
+186,Denver Beer Co,1062,Jeff Bart,past
+134,Diebolt Brewing,1062,Jeff Bart,current
+212,Propagate Lab,1063,Chance Olson,past
+213,Blue Moon Brewing,1063,Chance Olson,current
+212,Propagate Lab,1025,Brittany Portman,past
+214,Liquid Mechanics,1064,Jonatahn Pierotti,intern
+215,Rail's End Brewing,1065,Nathan Terns,current
+216,Mountain Toad,1067,David Boggs,past
+217,Spice Trade,1068,Matthew Grindstaff,past
+218,105 West,1068,Matthew Grindstaff,current
+217,Spice Trade,1072,Amber Swaim,past
+103,Ratio Beerworks,1072,Amber Swaim,past
+219,Le Brasseur du Pape,1073,Timothy Todd,owns
+112,Bruz Beers,1075,Tory Cusimano,intern
+127,Hogs Head Brewery,1077,Delton Hulbert,intern
+127,Hogs Head Brewery,1052,Jeremy Bergener,intern
+220,Cerberal Brewing,1078,Mauricio,intern
+221,Over Yonder Brewing,1079,James Butler,intern
+221,Over Yonder Brewing,1080,Jason Bilodeaux,owns
+222,Budweiser,1081,Matt Dea,current
+223,300 Suns,1083,Trey Harvey,current
+216,Mountain Toad,1086,Andres Rodriguez Prestamo,current
+131,Goldspot Brewing,1088,Krystyna Arnold,intern
+224,Nano 108,1094,Loridana Ballesteros,past
+225,Smoking River,1096,Tracy (Chip) Brown,intern
+226,Locavore Brewing,1097,Brandan Connor,intern
+226,Locavore Brewing,1098,Jason Reinhart,owns
+227,Mash Mechanix,1100,Andrew Garnhart,past
+227,Mash Mechanix,1101,Lief Anderson,owns
+228,Little Machine,1102,Josh Konz,intern
+194,Old 121,1102,Josh Konz,current
+228,Little Machine,1103,Brettman Williams,owns
+210,Tighe Brothers Distillery,1104,Bernd Sauermann,intern
+229,Oskar Blues,1104,Bernd Sauermann,current
+193,MillerCoors,1104,Bernd Sauermann,past
+230,LUKI Brewing,1099,Jacob Foley,current
+196,Stranahan's Distillery,1105,James Scoggins,current
+231,Mirror Image Brewing,1107,Brett Smith,intern
+120,Avery Brewing,1120,Miranda Cochran,current
+232,WahGwan,1121,Julianne Daly,past
+233,Bent Barley,1127,Daniel Drummond,intern
+234,Launch Pad,1127,Daniel Drummond,intern
+235,Montucky Brewing,1187,Maggie Bruen,current
+216,Mountain Toad,1192,Vinny Morrison,current
+126,Los Dos Patrillos,1217,Erich Albrecht,current
+236,Raices Brewing,1232,Aaron Lancaster,past
+194,Old 121,1247,Sam Nicholson,owns
+238,Berkely Alley,1252,David Rutter,current
+237,Blind Faith,1252,David Rutter,past
+202,Jagged Mountain,1272,Shawn Bayer,past
+196,Stranahan's Distillery,1272,Shawn Bayer,past
+120,Avery Brewing,1277,Ginessa Gerlock,current
+120,Avery Brewing,1282,Evan Dwyer,current
+239,Mockery Brewing,1287,Perry Clarke,intern
+240,Ramblebine Brewing,1292,Eli Gerson,owns
+112,Bruz Beers,1294,Christian Abe,intern
+130,Fiction Brewing,1298,Brandon Kerr,current
+208,Station 26 Brewing,1301,Mark McNeillie,current
+241,Alternation,1301,Mark McNeillie,past
+242,Naus Brewing,1320,Daniel Naus,owns
+130,Fiction Brewing,1329,Jameson Arnett,past
+104,Prost Brewing,1329,Jameson Arnett,past
+243,CODA Brewing,1330,Luke Smith,past
+244,New Terrain Brewing,1330,Luke Smith,owns
+244,New Terrain Brewing,1331,Josh Robbinson,owns
+245,Green Mountain Brewing,1332,Brian Milhaupt,owns
+193,MillerCoors,1332,Brian Milhaupt,past
+101,WestFax,1167,Andrew Mott,current
+246,Our Mutual Friend,1333,Kayleigh Schutte,current
+214,Liquid Mechanics,1334,August Guettlein,intern
+247,Peculiar Ales,1335,Andrew Riedel,current
+221,Over Yonder Brewing,1336,Tyler Hankock,intern
+248,Bierstadt Lagerhaus,1337,Teresa Blaisure,current
+248,Bierstadt Lagerhaus,1338,Ashleigh Cater,owns
+248,Bierstadt Lagerhaus,1339,Bill Eye,owns
+104,Prost Brewing,1339,Bill Eye,owns
+249,Dry Dock Brewing,1339,Bill Eye,past
+249,Dry Dock Brewing,1103,Brettman Williams,past
+250,Odd 13 Brewing,1340,Ryan Bender,intern
+250,Odd 13 Brewing,1341,Brandon Bolt,past 
+251,Primitive,1341,Brandon Bolt,owns
+205,Someplace Else Brewing,1342,Shane Eskew,current
+252,FlyteCo,1343,Michael Bracco,current
+253,Peak View Brewing,1344,Matthew Husted,past
+253,Peak View Brewing,1345,Sean Peters,owns
+131,Goldspot Brewing,1346,Ryan Colligan,intern
+186,Denver Beer Co,1347,Richard Willhelm,current
+254,Seedstock Brewing,1347,Richard Willhelm,intern
+254,Seedstock Brewing,1348,Adam McIlvenna,owns
